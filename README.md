@@ -29,5 +29,4 @@ Features:
 1. Clone the repository:
    git clone  https://hariom045418.github.io/Simon-Says-Game/
 
-
-2 Open index.html in your browser.
+2. Open index.html in your browser.
