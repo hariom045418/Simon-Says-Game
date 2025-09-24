@@ -18,7 +18,8 @@ Features:
 - **CSS**: Styling and animations.
 - **JavaScript**: Game logic and interaction.
 
-👉 [Click here to play]( https://hariom045418.github.io/Simon-Says-Game/)
+Click here to play:
+ https://hariom045418.github.io/Simon-Says-Game/
 
 ### Preview:
 ![Game Preview]![alt text](image.png)
