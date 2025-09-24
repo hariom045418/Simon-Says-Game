@@ -21,7 +21,7 @@ Features:
 👉 [Click here to play]( https://hariom045418.github.io/Simon-Says-Game/)
 
 ### Preview:
-![Game Preview](![alt text]image.png)
+![Game Preview]![alt text](image.png)
 
 ---
 
